@@ -10,8 +10,6 @@ class Program
         do
         {
             
-        
-        
             // Console.Write("What is magic number? ");
             // string valueGiven = Console.ReadLine();
             // int magicNumber = int.Parse(valueGiven);
